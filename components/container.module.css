@@ -1,0 +1,15 @@
+.container{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: sans-serif;
+    border: 2px black;
+    border-style: dashed;
+}
+
+
+.imgContainer{
+    margin-top: 5vh;
+    width: 300px;
+    border-radius: 50%;
+}
